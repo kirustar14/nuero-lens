@@ -1,0 +1,22 @@
+{
+  "Factor_1_Compulsive": {
+    "AN": 0.437, "OCD": 0.890, "TS": 0.161, "SCZ": 0.199, "BIP": 0.097,
+    "ALCH": -0.001, "ADHD": -0.145, "AUT": 0.098, "PTSD": 0.337, "ANX": 0.170, "MDD": 0.224
+  },
+  "Factor_2_Psychotic": {
+    "AN": 0.116, "OCD": 0.136, "TS": 0.020, "SCZ": 0.657, "BIP": 0.981,
+    "ALCH": 0.231, "ADHD": 0.113, "AUT": 0.083, "PTSD": 0.077, "ANX": 0.237, "MDD": 0.178
+  },
+  "Factor_3_Neurodevelopmental": {
+    "AN": 0.176, "OCD": -0.126, "TS": 0.117, "SCZ": 0.156, "BIP": 0.058,
+    "ALCH": 0.282, "ADHD": 0.962, "AUT": 0.358, "PTSD": 0.840, "ANX": 0.226, "MDD": 0.391
+  },
+  "Factor_4_Internalizing": {
+    "AN": 0.120, "OCD": 0.117, "TS": 0.146, "SCZ": 0.172, "BIP": 0.143,
+    "ALCH": 0.260, "ADHD": 0.122, "AUT": 0.211, "PTSD": 0.375, "ANX": 0.845, "MDD": 0.821
+  },
+  "Factor_5_Tourette_Specific": {
+    "AN": -0.022, "OCD": 0.264, "TS": 0.966, "SCZ": 0.030, "BIP": 0.019,
+    "ALCH": -0.157, "ADHD": 0.145, "AUT": 0.113, "PTSD": -0.096, "ANX": 0.229, "MDD": 0.047
+  }
+}
