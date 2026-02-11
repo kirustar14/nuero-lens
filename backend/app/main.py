@@ -12,6 +12,12 @@ import uuid
 import shutil
 import scipy.stats as stats
 
+import os
+
+# Allow OAuth over HTTP for local development only
+os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
+
+
 from .config import settings
 from .models import (
     VCFUploadResponse, PRSAnalysisRequest, PRSAnalysisResponse,
